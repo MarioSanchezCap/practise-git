@@ -1,2 +1,3 @@
 New message.
 Mario Sanchez
+New line due to a change of branch.
